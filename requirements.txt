@@ -1,0 +1,5 @@
+streamlit
+pandas
+requests
+pickle-mixin
+gdown  # If you're downloading large files
